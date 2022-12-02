@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest7.cpp
+C:\Users\38068\source\repos\Project7\UnitTest7\UnitTest7.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     Creating library C:\Users\38068\source\repos\Project7\UnitTest7\x64\Debug\UnitTest7.lib and object C:\Users\38068\source\repos\Project7\UnitTest7\x64\Debug\UnitTest7.exp
+  UnitTest7.vcxproj -> C:\Users\38068\source\repos\Project7\UnitTest7\x64\Debug\UnitTest7.dll

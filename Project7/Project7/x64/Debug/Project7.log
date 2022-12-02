@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\38068\source\repos\Project7\Project7\Source.cpp(24,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\38068\source\repos\Project7\Project7\Source.cpp(30,3): warning C4101: 'y_minus_z_modul': unreferenced local variable
+C:\Users\38068\source\repos\Project7\Project7\Source.cpp(40,8): warning C4101: 'rad': unreferenced local variable
+C:\Users\38068\source\repos\Project7\Project7\Source.cpp(40,13): warning C4101: 's': unreferenced local variable
+C:\Users\38068\source\repos\Project7\Project7\Source.cpp(39,7): warning C4101: 'ch': unreferenced local variable
+C:\Users\38068\source\repos\Project7\Project7\Source.cpp(40,16): warning C4101: 'w': unreferenced local variable
+C:\Users\38068\source\repos\Project7\Project7\Source.cpp(31,3): warning C4101: 'five_y_minus_z_modul': unreferenced local variable
+C:\Users\38068\source\repos\Project7\Project7\Source.cpp(29,3): warning C4101: 'y_minus_z': unreferenced local variable
+  Project7.vcxproj -> C:\Users\38068\source\repos\Project7\x64\Debug\Project7.exe
